@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectStructure.Application
 {
-    internal class ServiceVisitorTrackingOfLessons
+    internal class AddUserService
     {
     }
 }

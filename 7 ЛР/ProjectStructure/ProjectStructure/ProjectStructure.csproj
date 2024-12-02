@@ -43,17 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Application\ServiceAddHomework.cs" />
-    <Compile Include="Application\ServiceAddMark.cs" />
-    <Compile Include="Application\ServiceAddSchedule.cs" />
-    <Compile Include="Application\ServiceAddUser.cs" />
-    <Compile Include="Application\ServiceGetASchedule.cs" />
-    <Compile Include="Application\ServiceGetClassData.cs" />
-    <Compile Include="Application\ServiceGetUserData.cs" />
-    <Compile Include="Application\ServiceViewHomework.cs" />
-    <Compile Include="Application\ServiceViewMark.cs" />
-    <Compile Include="Application\ServiceVisitorTrackingOfLessons.cs" />
-    <Compile Include="Application\ServiceWorksWithDatabases.cs" />
+    <Compile Include="Application\AddHomeworkService.cs" />
+    <Compile Include="Application\AddMarkService.cs" />
+    <Compile Include="Application\AddScheduleService.cs" />
+    <Compile Include="Application\AddUserService.cs" />
+    <Compile Include="Application\GetClassDataService.cs" />
+    <Compile Include="Application\GetScheduleService.cs" />
+    <Compile Include="Application\GetUserDataService.cs" />
+    <Compile Include="Application\ViewHomeworkService.cs" />
+    <Compile Include="Application\ViewMarkService.cs" />
+    <Compile Include="Application\VisitorTrackingOfLessonsService.cs" />
+    <Compile Include="Application\WorksWithDatabasesService.cs" />
     <Compile Include="Models\Admin.cs" />
     <Compile Include="Models\ElectronicDiary.cs" />
     <Compile Include="Models\ElectronicJournal.cs" />
@@ -67,5 +67,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectStructure.Application
 {
-    internal class ServiceAddSchedule
+    internal class GetScheduleService
     {
     }
 }
