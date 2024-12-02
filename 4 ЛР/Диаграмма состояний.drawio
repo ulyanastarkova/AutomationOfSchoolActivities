@@ -1,0 +1,91 @@
+<mxfile host="Electron" modified="2024-11-19T20:16:43.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="y1jRNfg5hepMTeO88QvE" version="22.0.3" type="device">
+  <diagram name="Страница — 1" id="JSltrhYw92__WYpcUOx7">
+    <mxGraphModel dx="1805" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CV4BX1gtvT4exF4e3IRa-35" target="CV4BX1gtvT4exF4e3IRa-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-35" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="690" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CV4BX1gtvT4exF4e3IRa-37" target="CV4BX1gtvT4exF4e3IRa-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-37" value="Оценка не выставлена" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CV4BX1gtvT4exF4e3IRa-41" target="CV4BX1gtvT4exF4e3IRa-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="840" />
+              <mxPoint x="20" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CV4BX1gtvT4exF4e3IRa-41" target="CV4BX1gtvT4exF4e3IRa-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="840" />
+              <mxPoint x="-420" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-41" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Оценка в процессе выставления&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entry: Запрашивается оценка, которую нужно выставить&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;do: проверка оценки на валидность&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="710" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-43" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Trigger: Пользователь хочет выставить оценку&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="CV4BX1gtvT4exF4e3IRa-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="760" as="sourcePoint" />
+            <mxPoint x="-410" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CV4BX1gtvT4exF4e3IRa-45" target="CV4BX1gtvT4exF4e3IRa-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-420" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-45" value="Оценка отклонена&lt;br&gt;exit: уведомление &quot;Оценка не подходит&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CV4BX1gtvT4exF4e3IRa-46" target="CV4BX1gtvT4exF4e3IRa-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-46" value="Оценка выставлена&lt;br&gt;exit: уведомление &quot;Оценка выставлена&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-49" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Trigger: Оценка прошла проверку&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="40" y="790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-50" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Trigger: Оценка не прошла проверку&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="CV4BX1gtvT4exF4e3IRa-50" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="850" as="sourcePoint" />
+            <mxPoint x="-300" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-52" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="CV4BX1gtvT4exF4e3IRa-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="850" as="sourcePoint" />
+            <mxPoint x="-400" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CV4BX1gtvT4exF4e3IRa-53" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="1010" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
