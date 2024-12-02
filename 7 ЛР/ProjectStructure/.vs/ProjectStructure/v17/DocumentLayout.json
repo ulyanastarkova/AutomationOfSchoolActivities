@@ -3,36 +3,80 @@
   "WorkspaceRootPath": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\models\\electronicdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\electronicdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\servicevisitortrackingoflessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\servicevisitortrackingoflessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\models\\electronicjournal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\electronicjournal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\servicegetclassdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\servicegetclassdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\serviceviewhomework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\serviceviewhomework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\serviceaddhomework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\serviceaddhomework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\models\\pupil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\pupil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\serviceviewmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\serviceviewmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\serviceaddmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\serviceaddmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\projectstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\serviceaddschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\serviceaddschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\servicegetuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\servicegetuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\serviceadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\serviceadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\serviceworkswithdatabases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\serviceworkswithdatabases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\application\\servicegetaschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\application\\servicegetaschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|d:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\automationofschoolactivities\\7 \u043B\u0440\\projectstructure\\projectstructure\\models\\electronicdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\electronicdiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\projectstructure\\models\\electronicjournal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\electronicjournal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\projectstructure\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\projectstructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\projectstructure\\models\\pupil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\pupil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\projectstructure\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\projectstructure\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB9120C-A47F-4324-9526-D06E735FCB01}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,32 +91,162 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ServiceVisitorTrackingOfLessons.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceVisitorTrackingOfLessons.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceVisitorTrackingOfLessons.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceVisitorTrackingOfLessons.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceVisitorTrackingOfLessons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:34:45.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceGetClassData.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceGetClassData.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceGetClassData.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceGetClassData.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceGetClassData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:32:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceViewHomework.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceViewHomework.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceViewHomework.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceViewHomework.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceViewHomework.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:31:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceAddHomework.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceAddHomework.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceAddHomework.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceAddHomework.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceAddHomework.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:31:15.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceViewMark.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceViewMark.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceViewMark.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceViewMark.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceViewMark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:30:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceAddMark.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceAddMark.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceAddMark.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceAddMark.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceAddMark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:30:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceAddSchedule.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceAddSchedule.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceAddSchedule.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceAddSchedule.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceAddSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:28:04.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceGetUserData.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceGetUserData.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceGetUserData.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceGetUserData.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceGetUserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:27:03.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceAddUser.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceAddUser.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceAddUser.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceAddUser.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceAddUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:26:28.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceWorksWithDatabases.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceWorksWithDatabases.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceWorksWithDatabases.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceWorksWithDatabases.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceWorksWithDatabases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:25:44.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceGetASchedule.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceGetASchedule.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Application\\ServiceGetASchedule.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Application\\ServiceGetASchedule.cs",
+              "RelativeToolTip": "ProjectStructure\\Application\\ServiceGetASchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:24:20.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ElectronicDiary.cs",
               "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\ElectronicDiary.cs",
               "RelativeDocumentMoniker": "ProjectStructure\\Models\\ElectronicDiary.cs",
               "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\ElectronicDiary.cs",
               "RelativeToolTip": "ProjectStructure\\Models\\ElectronicDiary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T11:16:17.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ElectronicJournal.cs",
-              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\ElectronicJournal.cs",
-              "RelativeDocumentMoniker": "ProjectStructure\\Models\\ElectronicJournal.cs",
-              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\ElectronicJournal.cs",
-              "RelativeToolTip": "ProjectStructure\\Models\\ElectronicJournal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:15:49.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Schedule.cs",
               "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\Schedule.cs",
               "RelativeDocumentMoniker": "ProjectStructure\\Models\\Schedule.cs",
@@ -80,12 +254,11 @@
               "RelativeToolTip": "ProjectStructure\\Models\\Schedule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:14:24.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:14:24.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Pupil.cs",
               "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\Pupil.cs",
               "RelativeDocumentMoniker": "ProjectStructure\\Models\\Pupil.cs",
@@ -93,12 +266,11 @@
               "RelativeToolTip": "ProjectStructure\\Models\\Pupil.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:13:46.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:13:46.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Teacher.cs",
               "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "ProjectStructure\\Models\\Teacher.cs",
@@ -106,38 +278,11 @@
               "RelativeToolTip": "ProjectStructure\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:13:16.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:13:16.524Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "ProjectStructure\\Models\\Admin.cs",
-              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\Admin.cs",
-              "RelativeToolTip": "ProjectStructure\\Models\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:12:56.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ProjectStructure\\Models\\User.cs",
-              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\User.cs",
-              "RelativeToolTip": "ProjectStructure\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:10:19.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Program.cs",
               "RelativeDocumentMoniker": "ProjectStructure\\Program.cs",
@@ -145,7 +290,44 @@
               "RelativeToolTip": "ProjectStructure\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:07:27.668Z"
+              "WhenOpened": "2024-12-02T11:07:27.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElectronicJournal.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\ElectronicJournal.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Models\\ElectronicJournal.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\ElectronicJournal.cs",
+              "RelativeToolTip": "ProjectStructure\\Models\\ElectronicJournal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:15:49.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Models\\Admin.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\Admin.cs",
+              "RelativeToolTip": "ProjectStructure\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:12:56.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Models\\User.cs",
+              "ToolTip": "D:\\2 \u043A\u0443\u0440\u0441\\\u043F\u0438\\\u0433\u0438\u0442 \u044D\u043A\u0441\u0442\u0435\u043D\u0441\u0438\u043E\u043D\u0441\\AutomationOfSchoolActivities\\7 \u041B\u0420\\ProjectStructure\\ProjectStructure\\Models\\User.cs",
+              "RelativeToolTip": "ProjectStructure\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:10:19.207Z"
             }
           ]
         }
